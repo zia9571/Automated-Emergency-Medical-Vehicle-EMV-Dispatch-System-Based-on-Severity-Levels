@@ -64,10 +64,7 @@ This project aims to develop an **Automated Emergency Medical Vehicle Dispatch S
 ---
 
 ## Results and Analysis 📈
-The system successfully detects and classifies objects into the five predefined classes. Accurate bounding boxes are placed around objects of interest, and accident severity is assessed effectively.  
-- **Sample Results**:  
-  (Include images showcasing bounding boxes with proper classifications.)  
-
+The system successfully detects and classifies objects into the five predefined classes. Accurate bounding boxes are placed around objects of interest, and accident severity is assessed effectively.
 ---
 
 ## How to Run 🚀
