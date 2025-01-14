@@ -73,3 +73,12 @@ Further results and thesis documentation is available at https://docs.google.com
 1. Clone the repository:
    ```bash
    git clone https://github.com/Automated-Emergency-Medical-Vehicle-EMV-Dispatch-System-Based-on-Severity-Levels.git
+   
+---
+## Collaborators 👥
+
+This project is made possible with contributions from:
+
+- [Bikram Tripathi](https://github.com/Funza07)
+- [Toni Deori](https://github.com/Toni-deori))]
+- [Zahra Shaikh](https://github.com/zia9571)
