@@ -77,8 +77,9 @@ Further results and thesis documentation is available at https://docs.google.com
 ---
 ## Collaborators 👥
 
-This project is made possible with contributions from:
+| Name             | GitHub Profile                          |
+|------------------|-----------------------------------------|
+| Bikram Tripathi  | [GitHub Profile](https://github.com/Funza07) |
+| Toni Deori       | [GitHub Profile](https://github.com/Toni-deori) |
+| Zahra Shaikh     | [GitHub Profile](https://github.com/zia9571) |
 
-- [Bikram Tripathi](https://github.com/Funza07)
-- [Toni Deori](https://github.com/Toni-deori))]
-- [Zahra Shaikh](https://github.com/zia9571)
